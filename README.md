@@ -1,7 +1,28 @@
-Hi , my name is Waleed Raza i am a Focused and detail-oriented Software Engineer, with a working Experience of more than 8 years of experience in software development, requirement gathering, software analysis, and testing, I have cultivated my skills as a focused and detail-oriented professional.
+Hi, I’m Waleed Raza – a Seasoned Software Engineer with 9+ years of experience designing, developing, and scaling web applications across diverse industries.
 
-I have showcased my expertise in Laravel and PHP through several projects. One remarkable example is the creation of a tailored social media ads management platform for Facebook and Instagram. I engineered this platform to efficiently handle campaign audiences, dynamically adjust budgets, and enhance adset split functionality, ensuring seamless management of advertising endeavour’s, all while optimizing performance and ensuring security. Additionally, I integrated third-party APIs and built a custom CMS using Laravel to allow easy content management. This experience showcased my in-depth knowledge of Laravel's capabilities and my ability to leverage PHP to create efficient, scalable, and feature-rich applications
+💻 What I Do Best
 
-In my previous roles, I had the privilege of leading a team for over 2 years, where I honed my leadership skills and gained valuable experience in project management. I am confident in my ability to effectively manage projects, allocate resources efficiently, and foster a collaborative team environment to achieve project goals.
+Backend Expertise: Laravel (advanced), CodeIgniter, Node.js
 
-I have developed both the functional and aesthetic components of the Software (primarily Web Application) , i bring along the sense of ownership towards my project with proactive approach towards my responsibilities,i enjoyed teaming up with different people in order to deliver an interactive up to the mark product (responsive Software Applications) that meets the client needs without compromising the standards.
+Frontend Skills: Vue.js, React, Angular, Livewire, Blade
+
+Databases: MySQL design, optimization, and performance tuning
+
+Cloud & DevOps: Docker, AWS, CI/CD pipelines, containerized deployments
+
+Architecture: RESTful APIs, microservices, modular/scalable solutions
+
+👨‍💻 Highlights
+
+Led and mentored teams of 20+ developers across multiple projects
+
+Architected and delivered enterprise-level platforms (social media ad management, e-commerce, gifting platform, freelancing portal)
+
+Built secure, high-performance APIs and real-time admin panels with Laravel & Livewire
+
+Integrated third-party APIs and developed custom CMS & plugins
+
+Experienced in project management, agile workflows, and code reviews
+
+✨ Passion
+I take pride in building scalable, secure, and maintainable software, mentoring developers, and improving engineering practices to deliver solutions that align with business goals.
